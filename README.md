@@ -1,6 +1,8 @@
 # http_get_api
 
-A new Flutter project.
+Branch ini berisi
+1. Program Latihan HTTP API
+2. Video hasil running dan foto dalam bentuk rar
 
 ## Getting Started
 
